@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.advax.twa",
+        "sha256_cert_fingerprints": ["D9:77:6A:E8:08:44:F9:72:5A:7D:11:99:93:D7:54:E8:0E:28:31:5F:3F:D2:D3:08:2C:24:57:E6:B6:B5:42:6D"]
+      }
+    }]
